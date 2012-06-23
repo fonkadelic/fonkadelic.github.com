@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://fonkadelic.github.com/atom.xml" rel="self"/>
   <link href="http://fonkadelic.github.com/"/>
-  <updated>2012-06-24T00:19:13+02:00</updated>
+  <updated>2012-06-24T00:44:54+02:00</updated>
   <id>http://fonkadelic.github.com/</id>
   <author>
     <name><![CDATA[Bernhard Loibl]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Start]]></title>
+    <link href="http://fonkadelic.github.com/blog/2012/06/24/start/"/>
+    <updated>2012-06-24T00:34:00+02:00</updated>
+    <id>http://fonkadelic.github.com/blog/2012/06/24/start</id>
+    <content type="html"><![CDATA[<h1>Start it up</h1>
+
+<p>…</p>
+]]></content>
+  </entry>
   
 </feed>
